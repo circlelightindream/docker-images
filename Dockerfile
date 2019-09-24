@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/nexus:0.1.7
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/creds-init:v0.5.1
