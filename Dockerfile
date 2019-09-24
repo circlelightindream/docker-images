@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/prow/horologium:v20190911-5887de4
+From gcr.io/jenkinsxio/builder-go:0.1.794
