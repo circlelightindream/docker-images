@@ -1,1 +1,1 @@
-From jenkins/jnlp-slave:3.27-1
+From k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
