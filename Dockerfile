@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/prow/deck:v20190911-5887de4
+From gcr.io/jenkinsxio/exposecontroller:2.3.111
