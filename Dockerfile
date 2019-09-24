@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/builder-jx:0.1.794
+From k8s.gcr.io/heapster:v1.5.2
