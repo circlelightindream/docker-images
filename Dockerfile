@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/builder-nodejs:0.1.794
+From jenkins/jnlp-slave:3.27-1
