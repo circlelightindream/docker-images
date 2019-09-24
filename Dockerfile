@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/builder-maven:0.1.794
+From gcr.io/jenkinsxio/prow/plank:v20190911-5887de4
