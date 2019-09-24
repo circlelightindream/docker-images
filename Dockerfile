@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/prow/sinker:v20190911-5887de4
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.5.1
