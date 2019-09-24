@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/exposecontroller:2.3.111
+From gcr.io/jenkinsxio/prow/hook:v20190911-5887de4
