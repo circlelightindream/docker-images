@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/prow/pipeline:v20190911-5887de4
+From gcr.io/jenkinsxio/builder-maven:0.1.794
