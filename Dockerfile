@@ -1,1 +1,1 @@
-From k8s.gcr.io/addon-resizer:1.7
+From gcr.io/jenkinsxio/prow/pipeline:v20190911-5887de4
